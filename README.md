@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathesh Previn</h1>
-<h3 align="center">A mechanical engineering graduate with big dreams in developing and Data Science.</h3>
+<h3 align="center">A junior developer with big dreams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prevsathesh3215&label=Profile%20views&color=0e75b6&style=flat" alt="prevsathesh3215" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science using Python, Git**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, JS,**
 
 - 📫 How to reach me **prevsathesh3215@gmail.com**
 
